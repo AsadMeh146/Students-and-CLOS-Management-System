@@ -1,0 +1,13 @@
+SELECT R2.Id,Student.RegistrationNumber,R2.PresentDays,((CAST(R2.PresentDays as float) / CAST(R2.TotalDays AS float)) * 100) AS [Attendance Percentage]
+FROM (SELECT Student.Id,R1.PresentDays,(SELECT COUNT(Id) FROM ClassAttendance) AS TotalDays
+FROM (SELECT Student.Id,COUNT(Student.Id) AS PresentDays FROM Student INNER JOIN
+      StudentAttendance ON
+	  Student.Id = StudentAttendance.StudentId
+	  WHERE StudentAttendance.AttendanceStatus = 1 
+	  GROUP BY Student.Id) AS R1
+	  INNER JOIN Student
+	  ON Student.Id = R1.Id) AS R2
+	  INNER JOIN Student
+	  ON Student.Id = R2.Id
+
+

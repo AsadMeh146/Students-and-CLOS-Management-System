@@ -1,0 +1,1 @@
+SELECT Student.RegistrationNumber,ClassAttendance.AttendanceDate,StudentAttendance.AttendanceStatus FROM Student,StudentAttendance,ClassAttendance WHERE Student.Id = StudentAttendance.StudentId AND ClassAttendance.Id = StudentAttendance.AttendanceId

@@ -1,0 +1,56 @@
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.exe.config
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.exe
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.pdb
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Main.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Properties.Resources.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.GenerateResource.cache
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.exe
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.pdb
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Students.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Dashboard.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.CLOS.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessments.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Student_Info_Update.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Attendence_Info_Update.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric_Info_Update.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric_Level_Info.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessment_Info.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessment_Component_Info.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Class_Attendance_Info.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Student_Result_Info.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Reports.resources
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\itextsharp.dll
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\bin\Debug\itextsharp.xml
+C:\Users\Home\Documents\GitHub\db2020-cs-10\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.CopyComplete
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.exe.config
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.exe
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\DB2020-CS-10.pdb
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\BouncyCastle.Crypto.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\itextsharp.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\bin\Debug\itextsharp.xml
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.AssemblyReference.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessment_Component_Info.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessment_Info.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Attendence_Info_Update.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Assessments.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Class_Attendance_Info.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.CLOS.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Dashboard.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Main.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Properties.Resources.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Reports.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric_Info_Update.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Rubric_Level_Info.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Students.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Student_Info_Update.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020_CS_10.Student_Result_Info.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.GenerateResource.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.CoreCompileInputs.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.csproj.CopyComplete
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.exe
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Mid Project\DB2020-CS-10\DB2020-CS-10\obj\Debug\DB2020-CS-10.pdb
