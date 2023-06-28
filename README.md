@@ -16,16 +16,13 @@ Reports generation: Generate various reports using Crystal Reports for detailed 
 
 Installation:
 
-Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/AsadMeh146/Students-and-CLOS-Management-System.git
+   => git clone https://github.com/AsadMeh146/Students-and-CLOS-Management-System.git
 
-Open the project in your preferred .NET development environment (e.g., Visual Studio).
+2. Open the project in your preferred .NET development environment (e.g., Visual Studio).
 
-Configure the local SQL Server database connection settings in the application's configuration file.
+3. Configure the local SQL Server database connection settings in the application's configuration file.
 
-Build the application to resolve any missing dependencies and compile the project.
+4. Build the application to resolve any missing dependencies and compile the project.
 
-Create the required SQL Server database tables using the provided SQL scripts.
-
-Run the application from your development environment or build an executable to run it independently.
