@@ -5,13 +5,19 @@ The Student Management System is a desktop application developed using the .NET 
 Features:
 
 Student CRUD operations: Create, retrieve, update, and delete student records.
+
 Attendance management: Track and manage student attendance.
+
 Result and assessment management: Record and manage student results and assessments.
+
 CLO and rubric management: Define and manage Course Learning Objectives (CLOs) and associated rubrics.
+
 Reports generation: Generate various reports using Crystal Reports for detailed analysis and presentation.
 
-Installation
+Installation:
+
 Clone the repository:
+
 git clone https://github.com/AsadMeh146/Students-and-CLOS-Management-System.git
 
 Open the project in your preferred .NET development environment (e.g., Visual Studio).
